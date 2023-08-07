@@ -1,3 +1,5 @@
+[![MasterHead](https://github.com/jayant-baid/jayant-baid/blob/main/yt%20banner.png)](https://github.com/jayant-baid)
+
 <h1 align="center">Hi 👋, I'm Jayant Baid</h1>
 <h3 align="center">Passionate about Learning New Things</h3>
 
