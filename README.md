@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/jayant-baid/jayant-baid/blob/main/yt%20banner.png)
+[![MasterHead](https://github.com/jayant-baid/jayant-baid/blob/main/yt%20banner.png)](https://github.com/jayant-baid)
 
 <h1 align="center">Hi 👋, I'm Jayant Baid</h1>
 <h3 align="center">🚀 Full Stack Web Development Enthusiast | Lifelong Learner 🌱</h3>
