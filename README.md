@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **baidjayant2002@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/jayant-baid](https://bit.ly/jayant-baid)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1gwL2Ne0CFHsQq9CB8m0x_3iDt_kzYW6x)
 
 - ⚡ Fun fact **Deeply enthusiastic about creating videos**
 
