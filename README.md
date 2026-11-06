@@ -49,4 +49,4 @@ Also: **React Flow**, **Radix UI** and **Claude Code**
 
 ## 🤝 Connect with me
 
-[LinkedIn](https://www.linkedin.com/in/jayantbaid/) · [YouTube](https://www.youtube.com/@jayantbaid) · [LeetCode](https://leetcode.com/u/jayant-baid/) · [GeeksforGeeks](https://www.geeksforgeeks.org/user/jayant_baid/)
+[LinkedIn](https://www.linkedin.com/in/jayantbaid/) · [LeetCode](https://leetcode.com/u/jayant-baid/) · [GeeksforGeeks](https://www.geeksforgeeks.org/user/jayant_baid/)
