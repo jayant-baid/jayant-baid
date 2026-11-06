@@ -18,7 +18,7 @@
 
 ## 💼 Experience
 
-**Frontend AI Engineer, [Tata Consultancy Services](https://www.tcs.com/)** · Feb 2025 – Present · Noida, India
+**Frontend AI Engineer, Tata Consultancy Services** · Feb 2025 - Present · Noida, India
 
 - Led key AI platform features, including Workflow Studio and Harness, along with workflow orchestration
 - Built platform-wide foundations: a theming design system, English and German i18n, RBAC and voice-to-text with the Web Speech API
