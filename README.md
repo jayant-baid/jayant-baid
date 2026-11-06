@@ -1,37 +1,52 @@
-[![MasterHead](https://github.com/jayant-baid/jayant-baid/blob/main/yt%20banner.png)](https://github.com/jayant-baid)
-
 <h1 align="center">Hi 👋, I'm Jayant Baid</h1>
-<h3 align="center">🚀 Full Stack Web Development Enthusiast | Lifelong Learner 🌱</h3>
+<h3 align="center">Frontend AI Engineer at Tata Consultancy Services</h3>
 
-<img align="right" alt="Coding" width="340" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-
-<br>
-  
-- 🌱 I’m currently learning **MERN Stack**
-
-- 💬 Ask me about **HTML, CSS, Javascript, React, Nodejs**
-
-- 📫 How to reach me **baidjayant2002@gmail.com**
-
-- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/16vK2t2TvyG_jfc8ZBBsFCK3iN9IL_YMF)
-
-- ⚡ Fun fact **Deeply enthusiastic about creating videos**
-
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jayantbaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayantbaid" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@jayantbaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jayantbaid" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jayant-baid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jayant-baid" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jayant_baid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jayant_baid" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/jayant-baid/jayant-baid/blob/main/Jayant_Baid_Resume.pdf"><img src="https://img.shields.io/badge/Resume-View%20PDF-bd93f9?style=for-the-badge&logo=readme&logoColor=white" alt="View my resume" /></a>
+  <a href="https://www.linkedin.com/in/jayantbaid/"><img src="https://img.shields.io/badge/LinkedIn-jayantbaid-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:baidjayant2002@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> </p>
+## 🧑‍💻 About me
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayant-baid&show_icons=true&theme=dracula&locale=en&layout=compact" alt="jayant-baid" /></p>
+- 🤖 I build AI platform features at **TCS**, including **Workflow Studio**, an interactive React Flow canvas for AI agent workflows
+- 🧱 I enjoy frontend foundations: design systems, internationalization, role-based access control and performance
+- 💬 Ask me about **React, Next.js, JavaScript and Node.js**
+- 📄 Know about my experiences: **[read my resume](https://github.com/jayant-baid/jayant-baid/blob/main/Jayant_Baid_Resume.pdf)**
+- 📫 Reach me at **baidjayant2002@gmail.com**
+- ⚡ Fun fact: I'm deeply enthusiastic about creating videos
 
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api?username=jayant-baid&show_icons=true&theme=dracula&locale=en" alt="jayant-baid" /></p>
+## 💼 Experience
 
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayant-baid&theme=dracula" alt="jayant-baid" /></p>
+**Frontend AI Engineer, [Tata Consultancy Services](https://www.tcs.com/)** · Feb 2025 – Present · Noida, India
+
+- Led key AI platform features, including Workflow Studio and Harness, along with workflow orchestration
+- Built platform-wide foundations: a theming design system, English and German i18n, RBAC and voice-to-text with the Web Speech API
+- Improved performance with virtualization for large datasets, server-side search and pagination, and `AbortController`-based request cancellation
+
+**Front End Training Intern, Edunet Foundation** · Jun 2023 – Jul 2023 · Remote
+
+- Built a fully responsive e-commerce website with HTML, CSS, JavaScript and React
+
+## 🛠️ Languages and tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,js,html,css,nodejs,express,mongodb,c,cpp,git,github,postman,vscode,figma,ps&perline=9" alt="React, Next.js, Redux, Tailwind CSS, JavaScript, HTML, CSS, Node.js, Express, MongoDB, C, C++, Git, GitHub, Postman, VS Code, Figma, Photoshop" />
+</p>
+
+Also: **React Flow**, **Radix UI** and **Claude Code**
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jayant-baid&theme=dracula" alt="GitHub stats for jayant-baid" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jayant-baid&theme=dracula" alt="Most used languages by commit for jayant-baid" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=jayant-baid&theme=dracula" alt="GitHub contribution streak for jayant-baid" />
+</p>
+
+## 🤝 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/jayantbaid/) · [YouTube](https://www.youtube.com/@jayantbaid) · [LeetCode](https://leetcode.com/u/jayant-baid/) · [GeeksforGeeks](https://www.geeksforgeeks.org/user/jayant_baid/)
